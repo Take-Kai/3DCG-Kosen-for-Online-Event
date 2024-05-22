@@ -109,6 +109,9 @@ PCだけの操作ではなく、Xboxのコントローラーなども用いて�
 
 このシステムでは、それぞれの階の階段にプレイヤーが来たときに、"Press Enter Key"と表示し、この時にエンターキーを押すと次の階があるシーンに移動します。
 
+<img width="500" alt="Kaidan_enterkey" src="https://github.com/Take-Kai/3DCG-Kosen-for-Online-Event/assets/169955027/fffc168a-ae0f-4723-9739-8e311db1161a">
+
+
 
 ## ドアの開閉
 
