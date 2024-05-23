@@ -4,9 +4,14 @@
 
 これは、八戸高専本科2, 3年生の時に自主探究活動として制作したシステムです。
 
-八戸高専の3DCGはBlenderで制作しました。（この3DCGは一緒に送信した紹介動画をご覧ください。）
+八戸高専の3DCGはBlenderで制作しました。
 
 3人共同で行い、私は机や椅子などの物の3DCG制作とUnityでのシステム構築を担当しました。
+
+3DCGは下のリンクからGoogle Driveにいき、そこからご覧ください。
+
+[https://drive.google.com/file/d/1VZ20wzq4VO_b-SDYMW3PEDTEmWwVOT-K/view?usp=share_link]
+
 
 ## 開発環境
 
